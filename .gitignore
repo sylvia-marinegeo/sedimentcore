@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Local environments
+.venv/
+venv/
+
+# Private research data
+data/private/
+data/raw/
+
+# Local working files
+collectedData.xlsx
+carbonate_data.csv
